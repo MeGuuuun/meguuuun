@@ -10,14 +10,14 @@
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meguuuun&theme=vue&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meguuuun&theme=shadow_green&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meguuuun&layout=compact&langs_count=8&card_width=320&theme=vue" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meguuuun&layout=compact&langs_count=8&card_width=340&theme=shadow_green" />
 </a>
 
 <br>
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,gradle,postgres,mysql,docker,kafka,prometheus,grafana,git,idea,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,gradle,postgres,mysql,docker,kafka,prometheus,grafana,git,idea,postman&theme=light)](https://skillicons.dev)
